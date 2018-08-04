@@ -5,7 +5,7 @@ For example, given [10, 15, 3, 7] and K of 17, return true since 10 + 7 is 17.
 */
 package problem1;
 
-public class Main {
+public class Problem1 {
     public static void main(String[] args) {
         int[] array = {10, 15, 3, 7};
         int k = 17;
